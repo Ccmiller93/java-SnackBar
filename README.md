@@ -6,7 +6,7 @@ A student that completes this project shows that they can:
 * Explain the basic concept of Object Oriented Programming and how they relate to Java
 * Create and manipulate the base Java types which include Boolean, byte, char (including Strings), short, int, long, float, and double
 * Craft multiple Java Classes which include comments, constructors, static and instance variables (fields), accessors, public and private methods and instantiate and use Objects of these classes
-
+ 
 ## Introduction
 
 Variations on the Snack Bar Project have been part of Java Education since Java was created. So, we will do one. The point is to set up vending machines where a person buys snacks from those machines.
